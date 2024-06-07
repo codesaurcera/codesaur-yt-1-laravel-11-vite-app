@@ -3,4 +3,4 @@
 
 Laravel jQuery Starter App
 
-![App Image 1](assets/images/yt-vid1-img-1.png)
+![App Image 1](public/assets/images/yt-vid1-img-1.png)
